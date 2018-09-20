@@ -25,7 +25,7 @@ Data sourced from Kaggle, originally from research by Anant Madabhushi at Case W
 [logo]: https://github.com/VNair88/Visualizing-the-Olympics/blob/master/Plots/summer_participation.JPG  "Summer participation"
 
 ### Basic model 
-Output channels - 32
+Output channels - 32 <br>
 Maxpooling - pool size 2 x 2
 Flattened layer
 Dense layer - 100 nodes
