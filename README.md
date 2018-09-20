@@ -26,20 +26,20 @@ Data sourced from Kaggle, originally from research by Anant Madabhushi at Case W
 
 ### Basic model 
 Output channels - 32 <br>
-Maxpooling - pool size 2 x 2
-Flattened layer
-Dense layer - 100 nodes
-Optimizer - sgd; Loss - crossentropy
+Maxpooling - pool size 2 x 2 <br>
+Flattened layer <br>
+Dense layer - 100 nodes <br>
+Optimizer - sgd; Loss - crossentropy 
 
 ### Final model 
-4 convolution layers
-Output channels: 32 & 64
-Padding
-Maxpooling - pool size 2 x 2
-Dropout - 0.25
-Dense layer - 512 nodes
-Optimizer - Adadelta
-Loss - crossentropy
+4 convolution layers <br>
+Output channels: 32 & 64 <br>
+Padding <br>
+Maxpooling - pool size 2 x 2 <br>
+Dropout - 0.25 <br> 
+Dense layer - 512 nodes <br>
+Optimizer - Adadelta <br>
+Loss - crossentropy <br>
 Data augmentation
 
 ### Results
