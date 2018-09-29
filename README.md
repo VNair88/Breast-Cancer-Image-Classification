@@ -22,7 +22,7 @@ Data sourced from Kaggle, originally from research by Anant Madabhushi at Case W
 
 ![alt text][logo]
 
-[logo]: https://github.com/VNair88/Visualizing-the-Olympics/blob/master/Plots/summer_participation.JPG  "Summer participation"
+[logo]: https://github.com/VNair88/Breast-Cancer-Image-Classification/blob/master/Images/Capture.JPG  "Image rendition"
 
 ### Basic model 
 Output channels - 32 <br>
