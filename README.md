@@ -51,4 +51,4 @@ Confusion matrix -
 
 ![alt text][logo1]
 
-[logo1]: https://github.com/VNair88/Breast-Cancer-Image-Classification/blob/master/Images/Capture2.JPG  "Confusion matrix"
+[logo1]: https://github.com/VNair88/Breast-Cancer-Image-Classification/blob/master/Images/Capture1.JPG  "Confusion matrix"
