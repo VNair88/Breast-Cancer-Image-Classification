@@ -1,4 +1,6 @@
-# Breast-Cancer-Image-Classification
+# Breast-Cancer-Image-Classification 
+Data sourced from - https://www.kaggle.com/paultimothymooney/predicting-idc-in-breast-cancer-histology-images/data
+
 ### Classification of breast cancer images using CNNs.
 1 in 8 US women will develop invasive breast cancer in their lifetime.
 The lifetime risk of breast cancer for US men is 1 in 1000.
