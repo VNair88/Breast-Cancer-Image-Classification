@@ -40,8 +40,15 @@ Padding <br>
 Maxpooling - pool size 2 x 2 <br>
 Dropout - 0.25 <br> 
 Dense layer - 512 nodes <br>
-Optimizer - Adadelta <br>
+Optimizer - RMS <br>
 Loss - crossentropy <br>
 Data augmentation
 
 ### Results
+86% accuracy over 10 Epochs 
+
+Confusion matrix - 
+
+![alt text][logo1]
+
+[logo1]: https://github.com/VNair88/Breast-Cancer-Image-Classification/blob/master/Images/Capture2.JPG  "Confusion matrix"
